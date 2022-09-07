@@ -337,5 +337,3 @@ if __name__ == "__main__":
     
     print(calculate_gini(y_train[0:20]))
     print(y_train[0:20])
-
-0.1225 0.2025 
